@@ -1,0 +1,22 @@
+{
+  "name": "سيكوينس ماستر",
+  "short_name": "Sequence Master",
+  "description": "لعبة تدريب ذهني تعتمد على التتابعات لتقوية الذاكرة والتركيز",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "sequence-master-banner.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "sequence-master-banner.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
